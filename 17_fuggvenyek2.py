@@ -40,4 +40,4 @@ print(osszeadas3(12,243,55,5432,23))
 print("összeadás4()fgv")
 print(osszeadas4(12,243,55,5432,23))
 
-udvozlesek("Szia", 'Hello', 'Szevasz', 'Szervusz')
+udvozlesek("Szia", 'Hello', 'Szevasz', 'Szervusz' 'Hali')
