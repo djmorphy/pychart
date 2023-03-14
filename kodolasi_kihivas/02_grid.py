@@ -32,7 +32,7 @@ def grid_create(row, col):
         #valahányszor lefut a külső ciklus a grid listába bele appendelok egy üres listát
         grid.append([])
         #belső loopot hozok létre
-        for x in range (col):
+        for x in range(col):
             #az y indexnél add hozzá a nullát
             grid[y].append(0)
     return grid
