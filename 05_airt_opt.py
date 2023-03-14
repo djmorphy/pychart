@@ -1,7 +1,7 @@
 # + - * /  //(egesz szamos osztas) **(exponencialis)  %(modulo)
 
-szam1 = 5
-szam2 = 10
+szam1 = 10
+szam2 = 0
 
 print(szam1 + szam2)
 print(szam1 - szam2)
