@@ -61,3 +61,5 @@ for szam in szamok1:
 
 print()
 print(egyedi_szamok)
+
+
